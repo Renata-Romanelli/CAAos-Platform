@@ -1,5 +1,5 @@
 
-Welcome to the official repository of CAAos Platform (Cerebral Autoregulation Assessment Open Source Platform)!
+Welcome to the repository of CAAos Platform (Cerebral Autoregulation Assessment Open Source Platform)!
 
 <p align="center">
 <img src="docs/source/images/logo_800x591.png" width="600">
