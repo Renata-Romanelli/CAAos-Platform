@@ -11,4 +11,5 @@ CAAos is an unified open source, cross-platform toolbox written in Python for pr
 Detailed documentation is available here: <https://caaosplatform.github.io/CAAos>
 
 Main author: Fernando Silva de Moura
+
 Collaborators: Renata Romanelli, Pedro Machado 
